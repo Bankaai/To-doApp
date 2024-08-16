@@ -1,0 +1,28 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "simple Todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankaai/github-leraning.git"
+  },
+  "keywords": [
+    "notetaking-harkirat"
+  ],
+  "author": "Ameya-Warang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bankaai/github-leraning/issues"
+  },
+  "homepage": "https://github.com/Bankaai/github-leraning#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "zod": "^3.23.8"
+  }
+}
